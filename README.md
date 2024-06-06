@@ -1,2 +1,11 @@
 # LLM-created-patent-database
-Use LLM and GenAI to create an Indian patent filings database
+
+Read the LinkedIn article [Use Free AI Tools to Create an Indian Patent Database, Part-1](https://www.linkedin.com/pulse/use-free-ai-tools-create-indian-patent-database-part-1-dasgupta-zvkrc/) to understand the resources in this repository. The introductory paragraphs of the article are reproduced below.
+
+Patent data is free, you just have to Google it, right? 
+
+Wrong! Google [does not](https://support.google.com/faqs/answer/7049585?hl=en) list Indian patent filings. And although the Indian Patent Office maintains a search portal [inPASS](https://iprsearch.ipindia.gov.in/publicsearch), even that site does not allow users to download a batch of results from a fuzzy search. This defeats any [visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) and [analytics](https://en.wikipedia.org/wiki/Analytics) efforts, and prevents the creation of trend reports or [landscape](https://www.wipo.int/patentscope/en/programs/patent_landscapes/) studies of any kind.
+
+This is a problem for independent [patent agent](https://en.wikipedia.org/wiki/Patent_attorney#India)s or [patent analyst](https://en.wikipedia.org/wiki/Patent_analysis)s who do not have access to [expensive](https://www.greyb.com/blog/patent-databases-best-search-platforms/) [commercial](https://www.wipo.int/edocs/mdocs/africa/en/wipo_tiscs_kgl_18/wipo_tiscs_kgl_18_t_9.pdf) patent databases. This article provides a partial solution by showing how anyone familiar with recent developments in [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) can create their own patent database using freely available tools and resources.
+
+Note: In March 2018, The Indian Patent Office [started sharing data with WIPO](https://www.wipo.int/patentscope/en/news/pctdb/2018/news_0002.html), so Indian patent data is now freely available on global patent databases like [PATENTSCOPE](https://www.wipo.int/patentscope/en/) and [Espacenet](https://worldwide.espacenet.com/). But careful observation (in mid-May 2024) shows that new records in those systems appear many months after they are published ([Section 11A](https://ipindia.gov.in/writereaddata/Portal/ev/sections/ps11.html)) by the Indian Patent Office.
